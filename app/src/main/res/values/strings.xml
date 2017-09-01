@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Trabalho - Web Service</string>
+    <string name="search_hint">Buscar contato</string>
+    <string name="title_activity_detalhe">Novo contato</string>
+    <string name="nome_do_contato">Nome do contato</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="nome">Nome</string>
+    <string name="apelido">Apelido</string>
+    <string name="destinatario">Destinatário</string>
+    <string name="remetente">Remetente</string>
+    <string name="mensagem">Mensagem</string>
+    <string name="mensagem_hint">Digite o texto da mensagem</string>
+    <string name="ultima_mensagem">Última mensagem lida</string>
+    <string name="assunto">Assunto</string>
+    <string name="assunto_hint">Digite o assunto da mensagem</string>
+    <string name="corpo">Mensagem</string>
+    <string name="btvisualizar">Visualizar Mensagem</string>
+    <string name="btenviar">Enviar Mensagem</string>
+    <string name="url_base">http://www.nobile.pro.br/sdm/mensageiro</string>
+    <string name="novo_contato_adicionado">Um novo contato foi adicionado!</string>
+    <string name="novo_contato">Novo contato</string>
+    <string name="contatos_atualizados">Contatos atualizados!</string>
+    <string name="clique_aqui">Clique aqui para visualizar</string>
+    <string name="btlogar">Login</string>
+</resources>
+
+
